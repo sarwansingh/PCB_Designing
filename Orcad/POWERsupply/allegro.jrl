@@ -1,0 +1,43 @@
+\t (00:00:03) allegro 17.2 S024 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Jan 05 11:49:41 2018
+\t (00:00:03)         Host=KAPANY-201 User=Lab1 Pid=5040 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:04) Design opened: F:/Orcad/POWERsupply/newPowerSupply.brd
+\i (00:00:04) trapsize 987
+\i (00:00:04) trapsize 1027
+\i (00:00:04) trapsize 1334
+\i (00:00:04) trapsize 1253
+\i (00:00:04) generaledit 
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 4743.07 12104.33
+\i (00:00:06) trapsize 2507
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 4682.91 12721.00
+\t (00:00:06) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (00:00:06) trapsize 5014
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 4512.45 12741.05
+\i (00:00:07) trapsize 2507
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 4512.45 12741.05
+\i (00:00:07) trapsize 1253
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 4504.93 12568.09
+\i (00:00:09) trapsize 2507
+\i (00:00:18) open 
+\i (00:00:48) fillin "menu_cancel"
+\i (00:00:48) generaledit 
+\i (00:01:13) open 
+\i (00:01:24) fillin "F:\Orcad\PSclass.brd"
+\i (00:01:24) cd "F:\Orcad"
+\t (00:01:24) Opening existing design...
+\i (00:01:24) trapsize 4998
+\t (00:01:24)     Journal end - Fri Jan 05 11:51:02 2018

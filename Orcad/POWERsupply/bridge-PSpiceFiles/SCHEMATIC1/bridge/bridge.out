@@ -1,0 +1,116 @@
+
+**** 01/04/18 12:04:37 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bridge"  [ f:\orcad\powersupply\bridge-pspicefiles\schematic1\bridge.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "bridge.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 1000ms 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source BRIDGE
+R_R1         N00493 0  1k TC=0,0 
+V_V1         N00327 N00505  AC 0
++SIN 0 12 5 0 0 0
+D_D1         0 N00327 D1N4148_1 
+D_D2         N00327 N00493 D1N4148 
+D_D3         0 N00505 D1N4148 
+D_D4         N00505 N00493 D1N4148 
+
+**** RESUMING bridge.cir ****
+.END
+
+**** 01/04/18 12:04:37 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bridge"  [ f:\orcad\powersupply\bridge-pspicefiles\schematic1\bridge.sim ] 
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               D1N4148_1       D1N4148         
+          IS    2.682000E-09    2.682000E-09 
+           N    1.836           1.836        
+         ISR    1.565000E-09    1.565000E-09 
+         IKF     .04417          .04417      
+          BV  100             100            
+         IBV  100.000000E-06  100.000000E-06 
+          RS     .5664           .5664       
+          TT   11.540000E-09   11.540000E-09 
+         CJO    4.000000E-12    4.000000E-12 
+          VJ     .5              .5          
+           M     .3333           .3333       
+
+
+**** 01/04/18 12:04:37 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bridge"  [ f:\orcad\powersupply\bridge-pspicefiles\schematic1\bridge.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00327)-3.208E-18 (N00493) 152.0E-24 (N00505)-3.208E-18 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1         0.000E+00
+
+    TOTAL POWER DISSIPATION   0.00E+00  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 01/04/18 12:04:37 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bridge"  [ f:\orcad\powersupply\bridge-pspicefiles\schematic1\bridge.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .03
+

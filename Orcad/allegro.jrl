@@ -1,0 +1,35 @@
+\t (00:01:24) allegro 17.2 S024 Windows SPB 64-bit Edition
+\t (00:01:24)     Journal start - Fri Jan 05 11:51:02 2018
+\t (00:01:24)         Host=KAPANY-201 User=Lab1 Pid=5040 CPUs=4
+\t (00:01:24) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:01:24) 
+\d (00:01:24) Design opened: F:/Orcad/PSclass.brd
+\i (00:01:24) generaledit 
+\i (00:01:27) zoom in 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom in 10344.75 11435.06
+\i (00:01:27) trapsize 2499
+\i (00:01:27) zoom in 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom in 10344.76 11435.06
+\i (00:01:27) trapsize 1249
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out 10339.76 11440.06
+\i (00:01:28) trapsize 2499
+\i (00:02:43) open 
+\i (00:03:08) fillin "menu_cancel"
+\i (00:03:09) generaledit 
+\i (00:03:14) xname_flush 
+\i (00:03:23) xdehilite 
+\i (00:03:23) xname_flush 
+\i (00:03:23) done 
+\i (00:03:23) generaledit 
+\i (00:12:12) xhilite 
+\i (00:12:12) xname_flush 
+\i (00:12:12) done 
+\i (00:12:12) generaledit 
+\i (00:28:03) exit 
+\e (00:28:03) Do you want to save the changes you made to PSclass.brd?
+\i (00:28:05) fillin yes 
+\t (00:28:06)     Journal end - Fri Jan 05 12:17:44 2018

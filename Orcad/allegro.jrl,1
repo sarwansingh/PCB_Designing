@@ -1,0 +1,990 @@
+\t (00:00:03) allegro 17.2 S024 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Jan 04 11:23:23 2018
+\t (00:00:03)         Host=KAPANY-201 User=Lab1 Pid=3140 CPUs=4
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe -mpssession Lab1 F:\Orcad\PSclass
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: F:/Orcad/PSclass.brd
+\i (00:00:05) trapsize 14831
+\i (00:00:05) trapsize 15602
+\i (00:00:05) trapsize 19187
+\i (00:00:05) generaledit 
+\i (00:00:23) done 
+\i (00:00:23) place manual 
+\i (00:00:23) FORM plc_manual placement_list 
+\i (00:00:23) FORM plc_manual categories Components by refdes 
+\i (00:00:23) trapsize 19187
+\i (00:00:31) setwindow form.plc_manual
+\i (00:00:31) FORM plc_manual tree 'MULTISEL YES' D1 'Components by refdes' 
+\t (00:00:31) Placing D1 / 1N4148_DAX2DO35_D1N4148 / DAX2DO35 on Top.
+\i (00:00:31) FORM plc_manual tree  D1 'Components by refdes' 
+\i (00:00:31) FORM plc_manual tree 'MULTISEL YES' D2 'Components by refdes' 
+\i (00:00:31) FORM plc_manual tree  D2 'Components by refdes' 
+\i (00:00:31) FORM plc_manual tree 'MULTISEL YES' D3 'Components by refdes' 
+\i (00:00:31) FORM plc_manual tree  D3 'Components by refdes' 
+\i (00:00:32) FORM plc_manual tree 'MULTISEL YES' D4 'Components by refdes' 
+\i (00:00:32) FORM plc_manual tree  D4 'Components by refdes' 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) pick grid 6293.45 11358.92
+\t (00:00:52) last pick:  6300.00 11400.00
+\t (00:00:52) Placing D2 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35 on Top.
+\i (00:00:55) pick grid 7905.19 11550.79
+\t (00:00:55) last pick:  7900.00 11600.00
+\t (00:00:55) Placing D3 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35 on Top.
+\i (00:00:55) pick grid 10246.05 11550.79
+\t (00:00:55) last pick:  10200.00 11600.00
+\t (00:00:55) Placing D4 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35 on Top.
+\i (00:00:56) pick grid 12395.04 11781.04
+\t (00:00:56) last pick:  12400.00 11800.00
+\i (00:01:11) pick grid 4566.59 13047.41
+\t (00:01:11) last pick:  4600.00 13000.00
+\i (00:01:17) setwindow form.plc_manual
+\i (00:01:17) FORM plc_manual done  
+\i (00:01:17) setwindow pcb
+\i (00:01:17) generaledit 
+\i (00:01:20) drag_start grid 4374.72 12932.28
+\i (00:01:20) drag_stop 16079.01 7828.44
+\i (00:01:32) board outline 
+   (00:01:32) Loading floor.cxt 
+   (00:01:32) Loading fputil.cxt 
+\i (00:01:38) setwindow form.fpbdoutline
+\i (00:01:38) FORM fpbdoutline fpboclearance '200.00 MIL' 
+\i (00:01:38) FORM fpbdoutline done  
+\i (00:01:38) setwindow pcb
+\i (00:01:38) generaledit 
+\i (00:01:39) pick grid 4681.72 13200.91
+\t (00:01:39) last pick:  4700.00 13200.00
+\i (00:01:41) drag_start grid 13392.78 10054.18
+\i (00:01:42) drag_stop 4873.59 13239.28
+\i (00:01:49) board outline 
+\i (00:01:54) setwindow form.fpbdoutline
+\i (00:01:54) FORM fpbdoutline fpboclearance '200.00 MIL' 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) pick grid 4643.34 12970.66
+\t (00:01:55) last pick:  4600.00 13000.00
+\i (00:01:57) pick grid 14313.77 10015.80
+\t (00:01:57) last pick:  14300.00 10000.00
+\i (00:01:58) setwindow form.fpbdoutline
+\i (00:01:58) FORM fpbdoutline apply  
+\i (00:02:04) fillin confirm
+\i (00:02:05) FORM fpbdoutline apply  
+\i (00:02:07) fillin confirm
+\i (00:02:07) FORM fpbdoutline done  
+\i (00:02:08) setwindow pcb
+\i (00:02:08) generaledit 
+\i (00:02:09) pick grid 8941.31 11704.29
+\t (00:02:09) last pick:  8900.00 11700.00
+\i (00:02:09) zoom in 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom in 9516.93 11397.29
+\i (00:02:09) trapsize 9594
+\i (00:02:09) zoom in 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom in 9516.93 11397.29
+\i (00:02:09) trapsize 4797
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 8826.19 9766.37
+\i (00:02:13) trapsize 9594
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 8960.50 9977.43
+\i (00:02:13) trapsize 19187
+\i (00:02:13) zoom in 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom in 7636.57 6408.58
+\i (00:02:14) trapsize 9594
+\i (00:02:14) zoom in 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom in 7636.57 6427.77
+\i (00:02:14) trapsize 4797
+\t (00:02:16) > Ratsnest "N00913, D2.2:D4.2"
+\i (00:02:16) setwindow worldview
+\i (00:02:16) trapsize 7207
+\t (00:02:16) > Ratsnest "N00913, D2.2:D4.2"
+\i (00:02:16) trapsize 7207
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom in 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom in 6017.46 11318.06
+\i (00:02:18) trapsize 3603
+\i (00:02:18) zoom in 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom in 6017.45 11318.07
+\i (00:02:18) trapsize 1802
+\i (00:02:18) zoom in 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom in 6017.45 11318.07
+\i (00:02:18) trapsize 901
+\i (00:02:20) zoom out 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom out 6195.81 11170.33
+\i (00:02:21) trapsize 1802
+\i (00:02:23) pick grid 6091.32 11379.33
+\t (00:02:23) last pick:  6100.00 11400.00
+\i (00:02:42) auto_route 
+\w (00:02:42) Xtalk table in drawing F:/Orcad/PSclass.brd does not exist. For xtalk estimation or xtalk DRC update, xtalk tables must be generated.
+   (00:02:42) Loading vse.cxt 
+\i (00:02:44) setwindow form.vse_armain
+\i (00:02:44) FORM vse_armain setup_routinglayers cell ena_bottom 
+\i (00:02:44) FORM vse_armain setup_routinglayers change ena_bottom no 
+\i (00:02:46) FORM vse_armain execute  
+\i (00:02:52) FORM vse_armain close  
+\i (00:02:52) setwindow pcb
+\i (00:02:52) generaledit 
+\i (00:02:54) zoom out 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom out 7002.95 10896.49
+\i (00:02:54) trapsize 3603
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 7002.96 10896.49
+\i (00:02:55) trapsize 7207
+\i (00:02:56) pick grid 8991.96 11228.00
+\t (00:02:56) last pick:  9000.00 11200.00
+\i (00:02:57) drag_start grid 10015.29 11155.93
+\i (00:02:57) drag_stop 8083.93 11602.74
+\i (00:02:59) setwindow worldview
+\i (00:02:59) trapsize 4428
+\i (00:03:01) trapsize 2665
+\i (00:03:07) setwindow pcb
+\i (00:03:07) undo 
+\i (00:03:08) generaledit 
+\i (00:03:09) undo 
+\i (00:03:09) generaledit 
+\i (00:03:10) pick grid 9029.72 10904.01
+\t (00:03:10) last pick:  9000.00 10900.00
+\i (00:03:12) pick grid 7665.45 11596.81
+\t (00:03:12) last pick:  7700.00 11600.00
+\i (00:03:13) zoom in 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom in 7729.40 11586.15
+\i (00:03:13) trapsize 1332
+\i (00:03:13) zoom out 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom out 7729.40 11586.15
+\i (00:03:13) trapsize 2665
+\i (00:03:13) zoom out 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom out 7729.40 11586.16
+\i (00:03:13) trapsize 5329
+\i (00:03:14) zoom out 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom out 7740.05 11575.50
+\i (00:03:14) trapsize 10658
+\i (00:03:14) zoom in 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom in 7037.51 11575.51
+\i (00:03:14) trapsize 5329
+\i (00:03:16) drag_start grid 11897.73 12300.28
+\i (00:03:17) drag_stop 12611.84 11277.08
+\i (00:03:18) pick grid 12793.04 11117.20
+\t (00:03:18) last pick:  12800.00 11100.00
+\i (00:03:22) pick grid 12164.19 11810.00
+\t (00:03:22) last pick:  12200.00 11800.00
+\i (00:03:23) move 
+\t (00:03:23) last pick:  12400.00 11800.00
+\t (00:03:23) Moving D4 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:03:23) Pick new location for the element(s).
+\i (00:03:28) prepopup 9638.16 12140.41
+\i (00:03:29) rotate 
+\t (00:03:29) Spin the element(s).
+\i (00:03:36) iangle -90.000
+\t (00:03:36) last angle:  270.000 Degrees
+\i (00:03:36) zoom in 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom in 10778.60 11660.78
+\i (00:03:36) trapsize 2665
+\i (00:03:37) zoom in 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in 10757.28 11660.78
+\i (00:03:37) trapsize 1332
+\i (00:03:40) pick grid 10672.02 11143.86
+\t (00:03:40) last pick:  10700.00 11100.00
+\i (00:03:40) generaledit 
+\i (00:03:41) prepopup 10669.35 11125.20
+\i (00:03:44) pick grid 10560.11 11237.12
+\t (00:03:44) last pick:  10600.00 11200.00
+\i (00:03:48) pick grid 9995.21 11588.84
+\t (00:03:48) last pick:  10000.00 11600.00
+\i (00:03:49) pick grid 10101.80 11610.16
+\t (00:03:49) last pick:  10100.00 11600.00
+\i (00:03:50) move 
+\t (00:03:50) last pick:  10200.00 11600.00
+\t (00:03:50) Moving D3 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:03:50) Pick new location for the element(s).
+\i (00:03:52) prepopup 10448.19 11322.38
+\i (00:03:54) rotate 
+\t (00:03:54) Spin the element(s).
+\i (00:03:57) iangle 90.000
+\t (00:03:57) last angle:  90.000 Degrees
+\i (00:04:02) prepopup 10426.88 11556.87
+\i (00:04:16) done 
+\i (00:04:16) generaledit 
+\i (00:04:18) pick grid 10008.54 11572.86
+\t (00:04:18) last pick:  10000.00 11600.00
+\i (00:04:19) move 
+\t (00:04:19) Select element(s) to move.
+\i (00:04:20) pick grid 9995.21 11588.84
+\t (00:04:20) last pick:  10000.00 11600.00
+\t (00:04:20) last pick:  10200.00 11600.00
+\t (00:04:20) Moving D3 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:04:20) Pick new location for the element(s).
+\i (00:04:22) prepopup 10482.83 11335.71
+\i (00:04:25) pick grid 10482.83 11349.03
+\t (00:04:25) last pick:  10500.00 11300.00
+\i (00:04:27) prepopup 10389.57 11279.75
+\i (00:04:29) pick grid 10181.73 11269.09
+\t (00:04:29) last pick:  10200.00 11300.00
+\t (00:04:29) last pick:  10500.00 11300.00
+\t (00:04:29) Moving D3 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:04:29) Pick new location for the element(s).
+\i (00:04:31) pick grid 10445.53 11250.44
+\t (00:04:31) last pick:  10400.00 11300.00
+\i (00:04:32) prepopup 10344.27 11311.73
+\i (00:04:35) done 
+\i (00:04:35) generaledit 
+\i (00:04:37) pick grid 10251.01 11317.05
+\t (00:04:37) last pick:  10300.00 11300.00
+\i (00:04:40) move 
+\t (00:04:40) Select element(s) to move.
+\i (00:04:41) pick grid 10293.65 11282.41
+\t (00:04:41) last pick:  10300.00 11300.00
+\t (00:04:41) last pick:  10400.00 11300.00
+\t (00:04:41) Moving D3 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:04:41) Pick new location for the element(s).
+\i (00:04:44) pick grid 10418.88 11444.96
+\t (00:04:44) last pick:  10400.00 11400.00
+\i (00:04:44) prepopup 10445.53 11357.02
+\i (00:04:47) pick grid 10131.11 11253.10
+\t (00:04:47) last pick:  10100.00 11300.00
+\i (00:04:48) drag_start grid 9981.89 11370.35
+\i (00:04:48) drag_stop 10083.14 11186.49
+\t (00:04:48) last pick:  10400.00 11400.00
+\t (00:04:48) Moving D3 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:04:48) Pick new location for the element(s).
+\i (00:04:50) pick grid 10450.86 11247.78
+\t (00:04:50) last pick:  10500.00 11200.00
+\i (00:04:51) drag_start grid 10482.83 11245.11
+\i (00:04:52) drag_stop 10389.57 11412.98
+\t (00:04:52) last pick:  10500.00 11200.00
+\t (00:04:52) Moving D3 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:04:52) Pick new location for the element(s).
+\i (00:04:53) pick grid 10456.19 11205.14
+\t (00:04:53) last pick:  10500.00 11200.00
+\i (00:04:54) prepopup 10450.86 11234.45
+\i (00:04:55) pick grid 10362.93 11186.49
+\t (00:04:55) last pick:  10400.00 11200.00
+\t (00:04:55) last pick:  10500.00 11200.00
+\t (00:04:55) Moving D3 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:04:55) Pick new location for the element(s).
+\i (00:04:57) pick grid 10352.27 11186.49
+\t (00:04:57) last pick:  10400.00 11200.00
+\i (00:05:00) pick grid 10264.34 11213.14
+\t (00:05:00) last pick:  10300.00 11200.00
+\t (00:05:00) last pick:  10400.00 11200.00
+\t (00:05:00) Moving D3 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:05:00) Pick new location for the element(s).
+\i (00:05:04) prepopup 10450.86 11277.09
+\i (00:05:06) done 
+\i (00:05:06) generaledit 
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 10680.01 11479.59
+\i (00:05:11) trapsize 2665
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 10680.02 11479.60
+\i (00:05:11) trapsize 5329
+\i (00:05:12) pick grid 7631.72 11628.82
+\t (00:05:12) last pick:  7600.00 11600.00
+\i (00:05:15) move 
+\t (00:05:15) last pick:  7900.00 11600.00
+\t (00:05:15) Moving D2 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:05:15) Pick new location for the element(s).
+\i (00:05:19) prepopup 9731.42 11245.12
+\i (00:05:21) rotate 
+\t (00:05:21) Spin the element(s).
+\i (00:05:24) iangle 90.000
+\t (00:05:24) last angle:  90.000 Degrees
+\i (00:05:27) pick grid 9688.79 11543.55
+\t (00:05:27) last pick:  9700.00 11500.00
+\i (00:05:27) generaledit 
+\i (00:05:30) zoom out 1 
+\i (00:05:30) setwindow pcb
+\i (00:05:30) zoom out 8356.49 10850.76
+\i (00:05:30) trapsize 10658
+\i (00:05:30) zoom out 1 
+\i (00:05:30) setwindow pcb
+\i (00:05:30) zoom out 8356.48 10850.76
+\i (00:05:30) trapsize 19187
+\i (00:05:31) zoom in 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom in 6984.20 9747.18
+\i (00:05:31) trapsize 9594
+\i (00:05:33) pick grid 6063.21 11454.85
+\t (00:05:33) last pick:  6100.00 11500.00
+\i (00:05:35) move 
+\t (00:05:35) last pick:  6300.00 11400.00
+\t (00:05:35) Moving D1 / 1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:05:35) Pick new location for the element(s).
+\i (00:05:39) pick grid 9459.37 11167.04
+\t (00:05:39) last pick:  9500.00 11200.00
+\i (00:05:39) generaledit 
+\i (00:05:41) prepopup 9363.43 11186.23
+\i (00:05:43) pick grid 8269.75 11071.11
+\t (00:05:43) last pick:  8300.00 11100.00
+\i (00:05:44) pick grid 9344.24 11167.04
+\t (00:05:44) last pick:  9300.00 11200.00
+\i (00:05:45) pick grid 10188.49 9670.43
+\t (00:05:45) last pick:  10200.00 9700.00
+\i (00:05:46) drag_start grid 8480.81 12183.97
+\i (00:05:47) drag_stop 11378.10 10610.61
+\i (00:05:47) zoom in 1 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) zoom in 11262.98 9344.24
+\i (00:05:47) trapsize 4797
+\i (00:05:47) zoom in 1 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) zoom in 11262.98 9344.25
+\i (00:05:47) trapsize 2398
+\i (00:05:48) zoom in 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom in 11262.98 9344.25
+\i (00:05:48) trapsize 1199
+\i (00:05:48) zoom in 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom in 11262.98 9344.25
+\i (00:05:48) trapsize 600
+\t (00:05:49) > Pin "D4.2"
+\i (00:05:49) setwindow worldview
+\i (00:05:49) trapsize 139
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom out 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom out 10712.64 11514.88
+\i (00:05:50) trapsize 278
+\i (00:05:50) zoom out 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom out 10713.19 11514.89
+\i (00:05:50) trapsize 555
+\i (00:05:51) zoom out 1 
+\i (00:05:51) setwindow pcb
+\i (00:05:51) zoom out 10713.19 11514.88
+\i (00:05:51) trapsize 1110
+\i (00:05:52) drag_start grid 10511.08 11463.80
+\i (00:05:53) drag_stop 10602.14 11821.36
+\i (00:05:53) zoom out 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom out 10466.66 11394.96
+\i (00:05:53) trapsize 2221
+\i (00:05:53) zoom out 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom out 10466.67 11394.95
+\i (00:05:53) trapsize 4442
+\i (00:05:54) zoom out 1 
+\i (00:05:54) setwindow pcb
+\i (00:05:54) zoom out 9978.08 11537.09
+\i (00:05:54) trapsize 8883
+\i (00:05:56) zoom in 1 
+\i (00:05:56) setwindow pcb
+\i (00:05:56) zoom in 9995.85 10674.98
+\i (00:05:56) trapsize 4442
+\i (00:05:56) zoom in 1 
+\i (00:05:56) setwindow pcb
+\i (00:05:56) zoom in 10022.50 10674.98
+\i (00:05:56) trapsize 2221
+\i (00:05:57) zoom in 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom in 10031.38 10670.54
+\i (00:05:57) trapsize 1110
+\i (00:05:57) zoom in 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom in 10066.92 10788.25
+\i (00:05:57) trapsize 555
+\i (00:05:58) zoom out 1 
+\i (00:05:58) setwindow pcb
+\i (00:05:58) zoom out 10066.92 10788.25
+\i (00:05:58) trapsize 1110
+\i (00:05:58) zoom out 1 
+\i (00:05:58) setwindow pcb
+\i (00:05:58) zoom out 10066.93 10788.25
+\i (00:05:58) trapsize 2221
+\i (00:06:10) auto_route 
+\i (00:06:13) setwindow form.vse_armain
+\i (00:06:13) FORM vse_armain execute  
+\i (00:06:18) FORM vse_armain close  
+\i (00:06:18) setwindow pcb
+\i (00:06:18) generaledit 
+\i (00:06:33) pick grid 11044.10 11712.13
+\t (00:06:33) last pick:  11000.00 11700.00
+\i (00:06:34) delete 
+\i (00:06:34) generaledit 
+\i (00:06:35) pick grid 10195.73 11805.40
+\t (00:06:35) last pick:  10200.00 11800.00
+\i (00:06:37) delete 
+\i (00:06:37) generaledit 
+\i (00:06:38) pick grid 9756.00 11685.48
+\t (00:06:38) last pick:  9800.00 11700.00
+\i (00:06:39) delete 
+\i (00:06:39) generaledit 
+\i (00:06:40) zoom out 1 
+\i (00:06:40) setwindow pcb
+\i (00:06:40) zoom out 10022.50 10868.20
+\i (00:06:40) trapsize 4442
+\i (00:06:41) pick grid 8698.88 11383.44
+\t (00:06:41) last pick:  8700.00 11400.00
+\i (00:06:42) delete 
+\i (00:06:42) generaledit 
+\i (00:06:44) drag_start grid 8601.16 11676.59
+\i (00:06:44) drag_stop 11497.16 10628.35
+\i (00:06:45) zoom in 1 
+\i (00:06:45) setwindow pcb
+\i (00:06:45) zoom in 10502.22 11152.47
+\i (00:06:45) trapsize 2221
+\i (00:06:45) zoom in 1 
+\i (00:06:45) setwindow pcb
+\i (00:06:45) zoom in 10502.22 11152.48
+\i (00:06:45) trapsize 1110
+\i (00:06:46) pick grid 10886.43 11283.51
+\t (00:06:46) last pick:  10900.00 11300.00
+\i (00:06:49) pick grid 10220.17 11212.45
+\t (00:06:49) last pick:  10200.00 11200.00
+\i (00:06:51) move 
+\t (00:06:51) Select element(s) to move.
+\i (00:06:52) pick grid 10226.84 11216.89
+\t (00:06:52) last pick:  10200.00 11200.00
+\t (00:06:52) last pick:  10400.00 11200.00
+\t (00:06:52) Moving D3 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:06:52) Pick new location for the element(s).
+\i (00:06:54) pick grid 10464.47 11452.30
+\t (00:06:54) last pick:  10500.00 11500.00
+\i (00:06:56) pick grid 10473.35 11514.48
+\t (00:06:56) last pick:  10500.00 11500.00
+\t (00:06:56) last pick:  10500.00 11500.00
+\t (00:06:56) Moving D3 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:06:56) Pick new location for the element(s).
+\i (00:06:57) prepopup 10455.59 11416.77
+\i (00:06:58) rotate 
+\t (00:06:58) Spin the element(s).
+\i (00:07:01) iangle 90.000
+\t (00:07:01) last angle:  90.000 Degrees
+\i (00:07:03) pick grid 10377.86 11450.08
+\t (00:07:03) last pick:  10400.00 11500.00
+\i (00:07:07) zoom out 1 
+\i (00:07:07) setwindow pcb
+\i (00:07:07) zoom out 10129.12 10999.24
+\i (00:07:07) trapsize 2221
+\i (00:07:09) pick grid 9698.27 11265.75
+\t (00:07:09) last pick:  9700.00 11300.00
+\t (00:07:09) last pick:  9700.00 11500.00
+\t (00:07:09) Moving D2 / D1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:07:09) Pick new location for the element(s).
+\i (00:07:11) pick grid 10191.30 11452.30
+\t (00:07:11) last pick:  10200.00 11500.00
+\i (00:07:15) prepopup 10169.09 11310.17
+\i (00:07:16) done 
+\i (00:07:16) generaledit 
+\i (00:07:17) drag_start grid 10031.40 10808.25
+\i (00:07:17) drag_stop 10400.06 10866.00
+\i (00:07:18) zoom out 1 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) zoom out 10151.33 10990.36
+\i (00:07:18) trapsize 4442
+\i (00:07:18) zoom out 1 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) zoom out 10151.32 10990.37
+\i (00:07:18) trapsize 8883
+\i (00:07:19) zoom in 1 
+\i (00:07:19) setwindow pcb
+\i (00:07:19) zoom in 10151.33 10990.37
+\i (00:07:19) trapsize 4442
+\i (00:07:20) pick grid 9387.36 10821.58
+\t (00:07:20) last pick:  9400.00 10800.00
+\i (00:07:20) zoom in 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom in 9387.36 10866.00
+\i (00:07:20) trapsize 2221
+\i (00:07:20) zoom in 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom in 9387.36 10866.00
+\i (00:07:20) trapsize 1110
+\i (00:07:21) pick grid 9354.05 11230.22
+\t (00:07:21) last pick:  9400.00 11200.00
+\i (00:07:22) pick grid 9418.45 11192.47
+\t (00:07:22) last pick:  9400.00 11200.00
+\i (00:07:23) move 
+\t (00:07:24) last pick:  9500.00 11200.00
+\t (00:07:24) Moving D1 / 1N4148_DAX2DO35_D1N4148 / DAX2DO35.
+\t (00:07:24) Pick new location for the element(s).
+\i (00:07:26) prepopup 10015.86 11254.65
+\i (00:07:28) rotate 
+\t (00:07:28) Spin the element(s).
+\i (00:07:35) iangle -90.000
+\t (00:07:35) last angle:  270.000 Degrees
+\i (00:07:38) pick grid 9995.88 11052.55
+\t (00:07:38) last pick:  10000.00 11100.00
+\i (00:07:38) generaledit 
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 10202.42 11014.80
+\i (00:07:54) trapsize 555
+\i (00:07:54) zoom out 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom out 10202.42 11014.80
+\i (00:07:54) trapsize 1110
+\i (00:07:54) zoom out 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom out 10202.43 11014.81
+\i (00:07:54) trapsize 2221
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in 10477.81 11125.85
+\i (00:07:55) trapsize 1110
+\i (00:07:59) save 
+\i (00:08:01) fillin yes 
+\i (00:08:01) generaledit 
+\i (00:08:05) auto_route 
+\i (00:08:06) setwindow form.vse_armain
+\i (00:08:06) FORM vse_armain execute  
+\i (00:08:15) FORM vse_armain close  
+\i (00:08:15) setwindow pcb
+\i (00:08:15) generaledit 
+\i (00:08:18) pick grid 9813.77 11498.95
+\t (00:08:18) last pick:  9800.00 11500.00
+\i (00:08:19) delete 
+\i (00:08:19) generaledit 
+\i (00:08:20) pick grid 9709.39 11325.73
+\t (00:08:20) last pick:  9700.00 11300.00
+\i (00:08:23) delete 
+\i (00:08:23) generaledit 
+\i (00:08:24) pick grid 9771.57 11245.78
+\t (00:08:24) last pick:  9800.00 11200.00
+\i (00:08:26) delete 
+\i (00:08:26) generaledit 
+\i (00:08:28) pick grid 9811.55 11054.78
+\t (00:08:28) last pick:  9800.00 11100.00
+\i (00:08:29) delete 
+\i (00:08:29) generaledit 
+\i (00:08:31) pick grid 9913.71 11008.14
+\t (00:08:31) last pick:  9900.00 11000.00
+\i (00:08:36) delete 
+\i (00:08:36) generaledit 
+\i (00:08:37) pick grid 9831.54 11210.24
+\t (00:08:37) last pick:  9800.00 11200.00
+\i (00:08:38) delete 
+\i (00:08:38) generaledit 
+\i (00:08:39) pick grid 9671.64 11088.09
+\t (00:08:39) last pick:  9700.00 11100.00
+\i (00:08:40) delete 
+\i (00:08:40) generaledit 
+\i (00:08:41) pick grid 9502.85 11223.57
+\t (00:08:41) last pick:  9500.00 11200.00
+\i (00:08:42) delete 
+\i (00:08:42) generaledit 
+\i (00:08:47) pick grid 10406.74 11312.40
+\t (00:08:47) last pick:  10400.00 11300.00
+\i (00:08:50) delete 
+\i (00:08:50) generaledit 
+\i (00:08:57) 3d_viewer 
+\i (00:08:57) setwindow pcb3D
+\i (00:08:57) trapsize 1110
+\i (00:08:57) setwindow pcb
+\i (00:08:57) generaledit 
+\i (00:09:09) zoom out 1 
+\i (00:09:09) setwindow pcb
+\i (00:09:09) zoom out 9955.91 10790.50
+\i (00:09:09) trapsize 2221
+\i (00:09:09) zoom out 1 
+\i (00:09:09) setwindow pcb
+\i (00:09:09) zoom out 9955.90 10790.50
+\i (00:09:09) trapsize 4442
+\i (00:09:09) zoom out 1 
+\i (00:09:09) setwindow pcb
+\i (00:09:09) zoom out 9955.91 10790.50
+\i (00:09:09) trapsize 8883
+\i (00:09:10) drag_start grid 6775.63 12096.33
+\i (00:09:10) drag_stop 8339.12 11296.82
+\i (00:09:12) delete 
+\i (00:09:12) generaledit 
+\i (00:09:13) drag_start grid 8516.79 11581.09
+\i (00:09:13) drag_stop 9298.53 10959.25
+\i (00:09:15) delete 
+\i (00:09:15) generaledit 
+\i (00:09:16) drag_start grid 11945.80 12043.03
+\i (00:09:16) drag_stop 12851.91 11119.15
+\i (00:09:17) delete 
+\i (00:09:17) generaledit 
+\i (00:09:20) 3d_viewer 
+\i (00:09:20) setwindow pcb3D
+\i (00:09:20) trapsize 8883
+\i (00:09:20) setwindow pcb
+\i (00:09:20) generaledit 
+\i (00:09:42) zoom in 1 
+\i (00:09:42) setwindow pcb
+\i (00:09:42) zoom in 11181.82 11652.16
+\i (00:09:42) trapsize 4442
+\i (00:09:42) zoom in 1 
+\i (00:09:42) setwindow pcb
+\i (00:09:42) zoom in 11181.82 11652.16
+\i (00:09:42) trapsize 2221
+\i (00:09:42) zoom in 1 
+\i (00:09:42) setwindow pcb
+\i (00:09:42) zoom in 11181.82 11652.16
+\i (00:09:42) trapsize 1110
+\i (00:09:42) zoom in 1 
+\i (00:09:42) setwindow pcb
+\i (00:09:42) zoom in 11181.83 11652.16
+\i (00:09:42) trapsize 555
+\i (00:09:42) zoom in 1 
+\i (00:09:42) setwindow pcb
+\i (00:09:42) zoom in 11181.83 11652.16
+\i (00:09:42) trapsize 278
+\i (00:09:45) setwindow worldview
+\i (00:09:45) trapsize 2105
+\i (00:09:46) setwindow pcb
+\i (00:09:46) zoom in 1 
+\i (00:09:46) setwindow pcb
+\i (00:09:46) zoom in 10195.42 11198.50
+\i (00:09:46) trapsize 1053
+\i (00:09:46) zoom in 1 
+\i (00:09:46) setwindow pcb
+\i (00:09:46) zoom in 10195.42 11198.51
+\i (00:09:46) trapsize 526
+\i (00:09:46) zoom in 1 
+\i (00:09:46) setwindow pcb
+\i (00:09:46) zoom in 10196.48 11197.46
+\i (00:09:46) trapsize 263
+\i (00:09:47) zoom out 1 
+\i (00:09:47) setwindow pcb
+\i (00:09:47) zoom out 10200.16 11176.94
+\i (00:09:47) trapsize 526
+\i (00:09:49) drag_start grid 10126.49 10967.48
+\i (00:09:49) drag_stop 10197.01 10970.64
+\i (00:09:50) zoom in 1 
+\i (00:09:50) setwindow pcb
+\i (00:09:50) zoom in 10195.96 10975.90
+\i (00:09:50) trapsize 263
+\i (00:09:50) zoom out 1 
+\i (00:09:50) setwindow pcb
+\i (00:09:50) zoom out 10195.96 10975.90
+\i (00:09:50) trapsize 526
+\i (00:09:50) zoom out 1 
+\i (00:09:50) setwindow pcb
+\i (00:09:50) zoom out 10195.96 10975.90
+\i (00:09:50) trapsize 1053
+\i (00:09:59) pick grid 10257.00 11100.10
+\t (00:09:59) last pick:  10300.00 11100.00
+\i (00:10:04) add connect 
+\t (00:10:04) Pick first element.
+\t (00:10:04) Target Horizontal Line Segment is defined on TOP.
+\t (00:10:05) last pick:  10257.00 11100.00
+\i (00:10:05) mouse_pos 10400.14 11203.25
+\i (00:10:05) mouse_pos 10416.98 11199.04
+\i (00:10:07) setwindow form.mini
+\i (00:10:07) FORM mini lock_direction 45 
+\i (00:10:11) FORM mini acon_line_width 15 
+\i (00:10:11) setwindow pcb
+\i (00:10:11) mouse_pos 10231.74 11108.52
+\i (00:10:11) mouse_pos 10002.29 11089.58
+\i (00:10:13) mouse_pos 10038.07 11108.52
+\i (00:10:13) mouse_pos 10054.91 11114.84
+\i (00:10:13) mouse_pos 10389.61 11428.49
+\i (00:10:13) mouse_pos 10419.08 11462.17
+\i (00:10:13) mouse_pos 10463.29 11487.43
+\i (00:10:14) mouse_pos 10433.82 11516.90
+\i (00:10:15) mouse_pos 10400.14 11447.43
+\i (00:10:15) mouse_pos 10383.30 11394.81
+\i (00:10:15) mouse_pos 10141.22 11110.63
+\i (00:10:15) mouse_pos 10244.37 11085.37
+\i (00:10:16) mouse_pos 10292.78 11089.58
+\i (00:10:16) mouse_pos 10294.89 11137.99
+\i (00:10:18) pick grid 10343.30 11363.23
+\t (00:10:18) last pick:  10350.00 11375.00
+\t (00:10:18) No DRC errors detected.
+\i (00:10:18) mouse_pos 10387.51 11434.80
+\i (00:10:18) mouse_pos 10414.87 11436.91
+\i (00:10:18) mouse_pos 10435.92 11485.32
+\i (00:10:20) pick grid 10429.61 11491.64
+\t (00:10:20) last pick:  10425.00 11500.00
+\t (00:10:20) No DRC errors detected.
+\t (00:10:20) Pick first element.
+\i (00:10:20) generaledit 
+\i (00:10:23) pick grid 10078.07 11102.21
+\t (00:10:23) last pick:  10075.00 11100.00
+\i (00:10:25) add connect 
+\t (00:10:25) Pick first element.
+\t (00:10:25) last pick:  10078.07 11100.00
+\i (00:10:25) mouse_pos 10238.05 11175.88
+\i (00:10:25) mouse_pos 10288.57 11150.62
+\i (00:10:26) mouse_pos 10286.47 11142.20
+\i (00:10:26) mouse_pos 10235.95 11137.99
+\i (00:10:26) mouse_pos 10061.23 11110.63
+\i (00:10:26) mouse_pos 10010.71 11108.52
+\i (00:10:27) pick grid 10010.71 11108.52
+\t (00:10:27) last pick:  10000.00 11100.00
+\t (00:10:27) No DRC errors detected.
+\t (00:10:27) Pick first element.
+\i (00:10:27) generaledit 
+\i (00:10:29) pick grid 10261.21 11106.42
+\t (00:10:29) last pick:  10250.00 11100.00
+\i (00:10:30) pick grid 10122.28 11102.21
+\t (00:10:30) last pick:  10125.00 11100.00
+\i (00:10:32) add connect 
+\t (00:10:32) Pick first element.
+\t (00:10:32) last pick:  10122.28 11100.00
+\i (00:10:32) mouse_pos 10347.51 11479.01
+\i (00:10:32) mouse_pos 10416.98 11472.69
+\i (00:10:32) mouse_pos 10471.71 11466.38
+\i (00:10:33) mouse_pos 10286.47 11131.68
+\i (00:10:33) mouse_pos 10227.53 11127.47
+\i (00:10:34) mouse_pos 10084.38 11102.21
+\i (00:10:34) pick grid 10084.38 11102.21
+\t (00:10:34) last pick:  10075.00 11100.00
+\t (00:10:34) No DRC errors detected.
+\t (00:10:34) Pick first element.
+\i (00:10:34) generaledit 
+\i (00:10:35) pick grid 10257.00 11112.73
+\t (00:10:35) last pick:  10250.00 11125.00
+\i (00:10:38) 3d_viewer 
+\i (00:10:38) setwindow pcb3D
+\i (00:10:38) trapsize 1053
+\i (00:10:38) setwindow pcb
+\i (00:10:38) generaledit 
+\i (00:10:46) pick grid 10160.17 11554.79
+\t (00:10:46) last pick:  10150.00 11550.00
+\i (00:11:02) zoom out 1 
+\i (00:11:02) setwindow pcb
+\i (00:11:02) zoom out 10042.28 10946.44
+\i (00:11:02) trapsize 2105
+\i (00:11:02) zoom out 1 
+\i (00:11:02) setwindow pcb
+\i (00:11:02) zoom out 10042.29 10946.43
+\i (00:11:02) trapsize 4210
+\i (00:11:02) zoom out 1 
+\i (00:11:02) setwindow pcb
+\i (00:11:02) zoom out 10042.29 10946.44
+\i (00:11:02) trapsize 8420
+\i (00:11:02) zoom in 1 
+\i (00:11:02) setwindow pcb
+\i (00:11:02) zoom in 10042.28 10937.53
+\i (00:11:02) trapsize 4210
+\i (00:11:02) zoom in 1 
+\i (00:11:02) setwindow pcb
+\i (00:11:02) zoom in 10042.29 10937.54
+\i (00:11:02) trapsize 2105
+\t (00:11:06) > Horizontal Line Segment "N00825, Etch/Top"
+\i (00:11:06) setwindow worldview
+\i (00:11:06) trapsize 341
+\i (00:11:08) setwindow pcb
+\i (00:11:08) zoom out 1 
+\i (00:11:08) setwindow pcb
+\i (00:11:08) zoom out 10243.38 11403.22
+\i (00:11:08) trapsize 681
+\i (00:11:08) zoom out 1 
+\i (00:11:08) setwindow pcb
+\i (00:11:08) zoom out 10243.38 11396.40
+\i (00:11:08) trapsize 1362
+\i (00:11:08) zoom in 1 
+\i (00:11:09) setwindow pcb
+\i (00:11:09) zoom in 10243.37 11393.68
+\i (00:11:09) trapsize 681
+\i (00:11:09) zoom in 1 
+\i (00:11:09) setwindow pcb
+\i (00:11:09) zoom in 10243.38 11393.68
+\i (00:11:09) trapsize 341
+\i (00:11:10) zoom out 1 
+\i (00:11:10) setwindow pcb
+\i (00:11:10) zoom out 10177.31 11450.89
+\i (00:11:10) trapsize 681
+\i (00:11:10) zoom out 1 
+\i (00:11:10) setwindow pcb
+\i (00:11:10) zoom out 10177.31 11450.90
+\i (00:11:10) trapsize 1362
+\i (00:11:10) zoom out 1 
+\i (00:11:10) setwindow pcb
+\i (00:11:10) zoom out 10177.30 11450.90
+\i (00:11:10) trapsize 2725
+\i (00:11:10) zoom out 1 
+\i (00:11:10) setwindow pcb
+\i (00:11:10) zoom out 10177.31 11450.90
+\i (00:11:10) trapsize 5449
+\i (00:11:11) pick grid 11092.74 10862.40
+\t (00:11:11) last pick:  11100.00 10850.00
+\i (00:11:12) drag_start grid 9697.79 12355.44
+\i (00:11:12) drag_stop 11234.41 10698.93
+\i (00:11:13) drag_start grid 10972.86 11167.55
+\i (00:11:14) drag_stop 10002.93 11429.10
+\i (00:11:16) done 
+\i (00:11:16) place manual 
+\t (00:11:16) Selected item not valid for current operation, ignored: Shape "D1, Package Geometry/Place_Bound_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Shape "D2, Package Geometry/Place_Bound_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "0, Etch/Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Odd-angle Line Segment "0, Etch/Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "0, Etch/Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Shape "D3, Package Geometry/Place_Bound_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Not On A Net, Etch/Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Not On A Net, Etch/Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "0, Etch/Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "0, Etch/Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "N00913, Etch/Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Shape "D4, Package Geometry/Place_Bound_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:16) No valid items selected for the current operation, exiting.
+\i (00:11:16) FORM plc_manual placement_list 
+\e (00:11:16) Form not found
+\i (00:11:16) FORM plc_manual categories Components by refdes 
+\e (00:11:16) Form not found
+\i (00:11:16) trapsize 5449
+\i (00:11:17) generaledit 
+\i (00:11:19) done 
+\i (00:11:19) place manual 
+\t (00:11:19) Selected item not valid for current operation, ignored: Shape "D1, Package Geometry/Place_Bound_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Shape "D2, Package Geometry/Place_Bound_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "0, Etch/Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Odd-angle Line Segment "0, Etch/Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "0, Etch/Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Shape "D3, Package Geometry/Place_Bound_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Not On A Net, Etch/Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Not On A Net, Etch/Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "0, Etch/Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "0, Etch/Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "N00913, Etch/Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Shape "D4, Package Geometry/Place_Bound_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:19) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:11:19) No valid items selected for the current operation, exiting.
+\i (00:11:19) FORM plc_manual placement_list 
+\e (00:11:19) Form not found
+\i (00:11:19) FORM plc_manual categories Components by refdes 
+\e (00:11:19) Form not found
+\i (00:11:19) trapsize 5449
+\i (00:11:19) generaledit 
+\i (00:11:20) pick grid 11888.30 10971.38
+\t (00:11:20) last pick:  11900.00 10975.00
+\i (00:11:23) done 
+\i (00:11:23) place manual 
+\i (00:11:23) FORM plc_manual placement_list 
+\i (00:11:23) FORM plc_manual categories Components by refdes 
+\i (00:11:23) trapsize 5449
+\i (00:11:27) setwindow form.plc_manual
+\i (00:11:27) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\t (00:11:27) Placing U1 / LM7805C_TO202AB_LM7805C / TO202AB on Top.
+\i (00:11:27) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:11:45) setwindow pcb
+\i (00:11:45) pick grid 10754.90 12115.68
+\t (00:11:45) last pick:  10800.00 12100.00
+\i (00:11:47) setwindow form.plc_manual
+\i (00:11:47) FORM plc_manual done  
+\i (00:11:47) setwindow pcb
+\i (00:11:47) generaledit 
+\i (00:15:20) exit 
+\e (00:15:20) Do you want to save the changes you made to F:/Orcad/PSclass.brd?
+\i (00:15:22) fillin yes 
+\t (00:15:22)     Journal end - Thu Jan 04 11:38:42 2018

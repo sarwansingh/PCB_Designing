@@ -1,0 +1,108 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Jan-02-2018 at 16:20:52}
+primitive 'C_CAP196_2200UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='cap196';
+    VALUE='2200uf';
+  end_body;
+end_primitive;
+primitive '1N4148_DAX2DO35_D1N4148';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='1N4148';
+    JEDEC_TYPE='dax2do35';
+    VALUE='D1N4148';
+  end_body;
+end_primitive;
+primitive 'D1N4148_DAX2DO35_D1N4148';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='D1N4148';
+    JEDEC_TYPE='dax2do35';
+    VALUE='D1N4148';
+  end_body;
+end_primitive;
+primitive 'MLED81_DAX1DO35_MLED81';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MLED81';
+    JEDEC_TYPE='dax1do35';
+    VALUE='MLED81';
+  end_body;
+end_primitive;
+primitive 'CON1_JUMPER1_CON1';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON1';
+    JEDEC_TYPE='jumper1';
+    VALUE='CON1';
+  end_body;
+end_primitive;
+primitive 'R_AXRC05_1K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='AXRC05';
+    VALUE='1k';
+  end_body;
+end_primitive;
+primitive 'LM7805C_TO202AB_LM7805C';
+  pin
+    'IN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'OUT':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(*)';
+    'GND':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='LM7805C';
+    JEDEC_TYPE='to202ab';
+    VALUE='LM7805C';
+  end_body;
+end_primitive;
+END.

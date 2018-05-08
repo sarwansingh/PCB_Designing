@@ -1,0 +1,72 @@
+\t (00:00:01) allegro 17.2 S024 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Jan 05 09:49:46 2018
+\t (00:00:01)         Host=KAPANY-201 User=Lab1 Pid=4760 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe F:\Orcad\POWERsupply\bridgePS.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: F:/Orcad/POWERsupply/bridgePS.brd
+\i (00:00:02) trapsize 1629
+\i (00:00:02) trapsize 1695
+\i (00:00:02) trapsize 2002
+\i (00:00:02) trapsize 1881
+\i (00:00:02) generaledit 
+\i (00:00:12) nctape_full 
+\i (00:00:21) setwindow form.nc_drill
+\i (00:00:21) FORM nc_drill tape_name bridgePS2.drl 
+\i (00:00:21) FORM nc_drill execute  
+\t (00:00:21) Starting Generating NC Drill...
+\i (00:00:28) FORM nc_drill cancel  
+\i (00:00:28) setwindow pcb
+\i (00:00:28) generaledit 
+\i (00:01:17) xhilite 
+\i (00:01:17) xname_flush 
+\i (00:01:17) done 
+\i (00:01:17) generaledit 
+\i (00:01:25) artwork 
+\i (00:01:27) setwindow form.film_control
+\i (00:01:27) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:01:28) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:01:28) FORM film_control filmtree  TOP 
+\i (00:01:29) FORM film_control filmtree 'MULTISEL NO' TOP 
+\i (00:01:41) FORM film_control filmtree 'MULTISEL NO' BOTTOM 
+\i (00:01:41) FORM film_control filmtree  BOTTOM 
+\i (00:01:44) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:01:44) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:01:44) FORM film_control filmtree  TOP 
+\i (00:01:46) FORM film_control create  
+\t (00:01:46) Checking db records
+\t (00:01:46)     checking for orphans...
+\t (00:01:46)     Checked 100 percent
+\t (00:01:46) Done dbdoctor.
+\t (00:01:46) Starting Create artwork films...
+\t (00:01:48) Plot generated.
+\i (00:02:15) FORM film_control cancel  
+\i (00:02:15) setwindow pcb
+\i (00:02:15) generaledit 
+\i (00:03:47) artwork 
+\i (00:03:49) setwindow form.film_control
+\i (00:03:49) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:03:49) FORM film_control filmtree  TOP 
+\i (00:03:49) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:03:49) FORM film_control filmtree  BOTTOM 
+\i (00:03:51) FORM film_control create  
+\t (00:03:51) Checking db records
+\t (00:03:51)     checking for orphans...
+\t (00:03:51)     Checked 100 percent
+\t (00:03:51) Done dbdoctor.
+\t (00:03:51) Starting Create artwork films...
+\t (00:03:53) Plot generated.
+\i (00:03:55) FORM film_control ok  
+\i (00:03:55) setwindow pcb
+\i (00:03:55) generaledit 
+\i (00:12:56) step pkg map 
+\i (00:13:02) setwindow form.pkgmap3d
+\i (00:13:02) FORM pkgmap3d done  
+\i (00:13:02) setwindow pcb
+\i (00:13:02) generaledit 
+\i (00:14:35) exit 
+\e (00:14:35) Do you want to save the changes you made to bridgePS.brd?
+\i (00:14:37) fillin no 
+   (00:14:37) Loading signal.cxt 
+\t (00:14:37)     Journal end - Fri Jan 05 10:04:22 2018

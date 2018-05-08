@@ -1,0 +1,512 @@
+\t (00:00:03) allegro 17.2 S024 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Jan 02 13:23:47 2018
+\t (00:00:03)         Host=KAPANY-201 User=Lab1 Pid=4116 CPUs=4
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe -mpssession Lab1 F:\Orcad\schematic\LED
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: F:/Orcad/schematic/LED.brd
+\i (00:00:03) trapsize 23230
+\i (00:00:04) trapsize 25180
+\i (00:00:04) trapsize 25180
+\i (00:00:04) generaledit 
+\i (00:00:05) trapsize 15602
+\i (00:00:08) done 
+\i (00:00:08) place manual 
+\i (00:00:08) FORM plc_manual placement_list 
+\i (00:00:08) FORM plc_manual categories Components by refdes 
+\i (00:00:08) trapsize 15602
+\i (00:00:14) setwindow form.plc_manual
+\i (00:00:14) FORM plc_manual tree 'MULTISEL YES' D2 'Components by refdes' 
+\t (00:00:14) Placing D2 / LED_DAX1DO7_LED / DAX1DO7 on Top.
+\i (00:00:14) FORM plc_manual tree  D2 'Components by refdes' 
+\i (00:00:14) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\i (00:00:14) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:00:15) FORM plc_manual tree 'MULTISEL YES' R1 'Components by refdes' 
+\i (00:00:15) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:00:16) FORM plc_manual tree 'MULTISEL NO' D2 'Components by refdes' 
+\t (00:00:16) Placing J1 / CON2_JUMPER2_CON2 / JUMPER2 on Top.
+\i (00:00:16) FORM plc_manual tree  D2 'Components by refdes' 
+\i (00:00:16) FORM plc_manual tree 'MULTISEL NO' J1 'Components by refdes' 
+\t (00:00:16) Placing R1 / R_RES400_R / RES400 on Top.
+\i (00:00:16) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:00:17) FORM plc_manual tree 'MULTISEL NO' R1 'Components by refdes' 
+\i (00:00:17) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:00:18) FORM plc_manual tree 'MULTISEL YES' R1 'Components by refdes' 
+\t (00:00:18) Placing R1 / R_RES400_R / RES400 on Top.
+\i (00:00:21) FORM plc_manual tree 'MULTISEL NO' R1 'Components by refdes' 
+\i (00:00:21) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\t (00:00:21) Placing J1 / CON2_JUMPER2_CON2 / JUMPER2 on Top.
+\i (00:00:21) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:00:23) FORM plc_manual tree 'MULTISEL NO' J1 'Components by refdes' 
+\i (00:00:23) FORM plc_manual tree 'MULTISEL YES' D2 'Components by refdes' 
+\t (00:00:23) Placing D2 / LED_DAX1DO7_LED / DAX1DO7 on Top.
+\i (00:00:23) FORM plc_manual tree  D2 'Components by refdes' 
+\i (00:00:24) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\i (00:00:24) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:00:25) FORM plc_manual tree 'MULTISEL YES' R1 'Components by refdes' 
+\i (00:00:25) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) pick grid 9517.09 9891.53
+\t (00:00:26) last pick:  9500.00 9900.00
+\t (00:00:26) Placing J1 / CON2_JUMPER2_CON2 / JUMPER2 on Top.
+\i (00:00:27) pick grid 9423.48 8549.78
+\t (00:00:27) last pick:  9400.00 8500.00
+\t (00:00:27) Placing R1 / R_RES400_R / RES400 on Top.
+\i (00:00:27) pick grid 10858.84 7863.30
+\t (00:00:27) last pick:  10900.00 7900.00
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 11014.86 7364.04
+\i (00:00:33) trapsize 7801
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 11014.85 7364.04
+\i (00:00:33) trapsize 3900
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 11014.85 7364.04
+\i (00:00:33) trapsize 1950
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 11014.85 7364.05
+\i (00:00:33) trapsize 975
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 10983.65 7479.12
+\i (00:00:34) trapsize 1950
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 10983.65 7479.12
+\i (00:00:34) trapsize 3900
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 10983.64 7479.12
+\i (00:00:34) trapsize 7801
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 10968.02 6308.98
+\i (00:00:35) trapsize 15602
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 10484.47 6864.83
+\i (00:00:35) trapsize 19274
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 12952.38 8480.73
+\i (00:00:35) trapsize 19274
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 10600.91 9444.44
+\i (00:00:35) trapsize 9637
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 10600.92 9444.44
+\i (00:00:36) trapsize 4819
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 10600.92 9444.44
+\i (00:00:36) trapsize 2409
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 10600.92 9444.44
+\i (00:00:36) trapsize 1205
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 10596.11 9444.45
+\i (00:00:36) trapsize 2409
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 10567.20 9444.45
+\i (00:00:37) trapsize 4819
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 10017.87 8721.66
+\i (00:00:37) trapsize 2409
+\i (00:01:37) 3d_viewer 
+\i (00:01:38) setwindow pcb3D
+\i (00:01:38) trapsize 2409
+\i (00:01:38) setwindow pcb
+\i (00:01:38) generaledit 
+\i (00:08:40) drag_start grid 10875.59 8201.25
+\i (00:08:40) move 
+\t (00:08:41) last pick:  10900.00 7900.00
+\t (00:08:41) Moving R1 / R_RES400_R / RES400.
+\t (00:08:41) Pick new location for the element(s).
+\i (00:08:41) drag_stop grid 10870.77 8620.47
+\i (00:08:41) generaledit 
+\i (00:08:43) prepopup 10880.41 8731.30
+\i (00:08:47) prepopup 10856.31 8866.22
+\i (00:08:49) pop dyn_option_select @:@Mirror 
+\i (00:08:49) mirror 
+\i (00:08:49) generaledit 
+\i (00:08:50) prepopup 10880.41 8697.57
+\i (00:08:52) pop dyn_option_select @:@Spin 
+\i (00:08:52) spin 
+\t (00:08:52) Moving R1 / R_RES400_R / RES400.
+\i (00:08:56) prepopup 11029.78 8832.49
+\i (00:08:57) done 
+\i (00:08:57) generaledit 
+\i (00:08:57) zoom in 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 12085.06 8981.87
+\i (00:08:57) trapsize 1205
+\i (00:08:58) zoom in 1 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) zoom in 12085.06 9025.24
+\i (00:08:58) trapsize 602
+\i (00:08:58) zoom in 1 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) zoom in 12085.06 9025.25
+\i (00:08:58) trapsize 301
+\i (00:08:58) zoom out 1 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) zoom out 12080.24 9024.65
+\i (00:08:58) trapsize 602
+\i (00:08:58) zoom out 1 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) zoom out 12074.22 9022.24
+\i (00:08:58) trapsize 1205
+\i (00:08:58) zoom out 1 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) zoom out 12050.13 9015.01
+\i (00:08:58) trapsize 2409
+\i (00:08:59) zoom in 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom in 11014.15 8672.89
+\i (00:08:59) trapsize 1205
+\i (00:08:59) zoom in 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom in 11014.15 8672.89
+\i (00:08:59) trapsize 602
+\i (00:08:59) zoom in 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom in 11012.94 8672.89
+\i (00:08:59) trapsize 301
+\i (00:08:59) zoom out 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom out 11012.95 8672.89
+\i (00:08:59) trapsize 602
+\i (00:08:59) zoom out 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom out 11012.94 8672.89
+\i (00:08:59) trapsize 1205
+\i (00:08:59) zoom out 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom out 11010.54 8672.90
+\i (00:08:59) trapsize 2409
+\i (00:09:00) zoom out 1 
+\i (00:09:00) setwindow pcb
+\i (00:09:00) zoom out 11005.72 8663.26
+\i (00:09:00) trapsize 4819
+\i (00:09:04) board outline 
+   (00:09:04) Loading floor.cxt 
+   (00:09:04) Loading fputil.cxt 
+\i (00:09:09) setwindow form.fpbdoutline
+\i (00:09:09) FORM fpbdoutline fpboclearance '200.00 MIL' 
+\i (00:09:09) FORM fpbdoutline fpboplacerect YES 
+\i (00:09:12) FORM fpbdoutline fpbodrawpoly YES 
+\i (00:09:13) FORM fpbdoutline fpbodrawrect YES 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) pick grid 8972.30 10185.93
+\t (00:09:15) last pick:  9000.00 10200.00
+\i (00:09:18) pick grid 10446.77 9540.24
+\t (00:09:18) last pick:  10400.00 9500.00
+\i (00:09:19) prepopup 10996.09 9655.89
+\i (00:09:21) setwindow form.fpbdoutline
+\i (00:09:21) FORM fpbdoutline apply  
+\i (00:09:23) fillin confirm
+\i (00:09:24) FORM fpbdoutline done  
+\i (00:09:24) setwindow pcb
+\i (00:09:24) generaledit 
+\i (00:09:31) pick grid 9165.04 10214.84
+\t (00:09:31) last pick:  9200.00 10200.00
+\i (00:09:32) delete 
+\i (00:09:32) generaledit 
+\i (00:09:34) pick grid 9309.60 10031.74
+\t (00:09:34) last pick:  9300.00 10000.00
+\i (00:09:35) delete 
+\i (00:09:35) generaledit 
+\i (00:09:36) pick grid 9319.23 10002.82
+\t (00:09:36) last pick:  9300.00 10000.00
+\i (00:09:37) delete 
+\i (00:09:37) generaledit 
+\i (00:09:41) shape add rect 
+\i (00:09:46) board outline 
+\i (00:09:51) setwindow form.fpbdoutline
+\i (00:09:51) FORM fpbdoutline fpboclearance '200.00 MIL' 
+\i (00:09:52) setwindow pcb
+\i (00:09:52) pick grid 8914.48 10330.49
+\t (00:09:52) last pick:  8900.00 10300.00
+\i (00:09:54) pick grid 11179.19 8547.62
+\t (00:09:54) last pick:  11200.00 8500.00
+\i (00:09:55) prepopup 11555.04 8537.99
+\i (00:09:57) setwindow form.fpbdoutline
+\i (00:09:57) FORM fpbdoutline apply  
+\i (00:09:58) fillin confirm
+\i (00:09:59) FORM fpbdoutline done  
+\i (00:09:59) setwindow pcb
+\i (00:09:59) generaledit 
+\i (00:10:01) prepopup 11767.06 10012.46
+\i (00:10:03) pick grid 12316.37 10542.50
+\t (00:10:03) last pick:  12300.00 10500.00
+\i (00:10:04) drag_start grid 9772.18 9867.91
+\i (00:10:04) move 
+\t (00:10:04) last pick:  9500.00 9900.00
+\t (00:10:04) Moving D2 / LED_DAX1DO7_LED / DAX1DO7.
+\t (00:10:04) Pick new location for the element(s).
+\i (00:10:05) drag_stop grid 9830.00 9752.26
+\i (00:10:05) generaledit 
+\i (00:10:06) drag_start grid 9444.52 8537.99
+\i (00:10:07) drag_stop 9569.80 8904.20
+\i (00:10:08) drag_start grid 9444.52 8518.71
+\i (00:10:09) drag_stop grid 9454.15 8865.65
+\i (00:10:09) pick grid 9454.15 8509.07
+\t (00:10:09) last pick:  9500.00 8500.00
+\i (00:10:10) pick grid dbl 9454.15 8509.07
+\t (00:10:10) last pick:  9500.00 8500.00
+\i (00:10:12) move 
+\t (00:10:12) last pick:  9400.00 8500.00
+\t (00:10:12) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:10:12) Pick new location for the element(s).
+\i (00:10:13) pick grid 9637.26 9154.76
+\t (00:10:13) last pick:  9600.00 9200.00
+\i (00:10:13) generaledit 
+\i (00:10:14) pick grid 10870.81 8846.37
+\t (00:10:14) last pick:  10900.00 8800.00
+\i (00:10:15) move 
+\t (00:10:15) last pick:  10900.00 8600.00
+\t (00:10:15) Moving R1 / R_RES400_R / RES400.
+\t (00:10:15) Pick new location for the element(s).
+\i (00:10:16) pick grid 10360.04 9135.49
+\t (00:10:16) last pick:  10400.00 9100.00
+\i (00:10:16) generaledit 
+\i (00:10:19) zoom in 1 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) zoom in 10321.49 9212.58
+\i (00:10:19) trapsize 2409
+\i (00:10:19) zoom in 1 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) zoom in 10321.49 9212.58
+\i (00:10:19) trapsize 1205
+\i (00:10:20) pick grid 10410.63 9342.68
+\t (00:10:20) last pick:  10400.00 9300.00
+\i (00:10:20) prepopup 10410.63 9342.68
+\i (00:10:25) pick grid 10820.21 9410.14
+\t (00:10:25) last pick:  10800.00 9400.00
+\i (00:10:27) pick grid 10449.18 9525.79
+\t (00:10:27) last pick:  10400.00 9500.00
+\i (00:10:28) move 
+\t (00:10:28) last pick:  10400.00 9100.00
+\t (00:10:28) Moving R1 / R_RES400_R / RES400.
+\t (00:10:28) Pick new location for the element(s).
+\i (00:10:29) prepopup 10497.37 9183.67
+\i (00:10:31) rotate 
+\t (00:10:31) Spin the element(s).
+\i (00:10:37) iangle 90.000
+\t (00:10:37) last angle:  90.000 Degrees
+\i (00:10:39) pick grid 10815.39 9255.95
+\t (00:10:39) last pick:  10800.00 9300.00
+\i (00:10:39) generaledit 
+\i (00:10:40) zoom out 1 
+\i (00:10:40) setwindow pcb
+\i (00:10:40) zoom out 10184.16 9248.72
+\i (00:10:40) trapsize 2409
+\i (00:10:41) zoom in 1 
+\i (00:10:41) setwindow pcb
+\i (00:10:41) zoom in 10184.17 9248.72
+\i (00:10:41) trapsize 1205
+\i (00:10:42) zoom out 1 
+\i (00:10:42) setwindow pcb
+\i (00:10:42) zoom out 9928.79 9219.81
+\i (00:10:42) trapsize 2409
+\i (00:10:43) move 
+\t (00:10:43) last pick:  10800.00 9300.00
+\t (00:10:43) Moving R1 / R_RES400_R / RES400.
+\t (00:10:43) Pick new location for the element(s).
+\i (00:10:45) pick grid 10656.39 9306.54
+\t (00:10:45) last pick:  10700.00 9300.00
+\i (00:10:45) generaledit 
+\i (00:10:46) pick grid 9649.32 9166.80
+\t (00:10:46) last pick:  9600.00 9200.00
+\i (00:10:47) move 
+\t (00:10:47) last pick:  9600.00 9200.00
+\t (00:10:47) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:10:47) Pick new location for the element(s).
+\i (00:10:48) prepopup 9654.13 9277.63
+\i (00:10:49) rotate 
+\t (00:10:49) Spin the element(s).
+\i (00:10:51) iangle 90.000
+\t (00:10:51) last angle:  90.000 Degrees
+\i (00:10:52) prepopup 9702.32 9301.72
+\i (00:10:53) done 
+\i (00:10:53) generaledit 
+\i (00:10:57) move 
+\t (00:10:57) last pick:  9600.00 9200.00
+\t (00:10:57) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:10:57) Pick new location for the element(s).
+\i (00:10:58) prepopup 9755.32 9248.72
+\i (00:10:59) rotate 
+\t (00:10:59) Spin the element(s).
+\i (00:11:01) prepopup 9880.61 9484.83
+\i (00:11:02) done 
+\i (00:11:02) generaledit 
+\i (00:11:04) pick grid 9697.50 9267.99
+\t (00:11:04) last pick:  9700.00 9300.00
+\i (00:11:05) prepopup 9678.23 9224.62
+\i (00:11:07) move 
+\t (00:11:07) last pick:  9600.00 9200.00
+\t (00:11:07) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:11:07) Pick new location for the element(s).
+\i (00:11:08) prepopup 9798.69 9292.08
+\i (00:11:09) rotate 
+\t (00:11:09) Spin the element(s).
+\i (00:11:11) iangle 90.000
+\t (00:11:11) last angle:  90.000 Degrees
+\i (00:11:13) pick grid 9846.88 9316.18
+\t (00:11:13) last pick:  9800.00 9300.00
+\i (00:11:13) generaledit 
+\i (00:11:16) drag_start grid 10145.63 9870.31
+\i (00:11:16) slide 
+\t (00:11:16) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:16) No valid items selected for the current operation, exiting.
+\i (00:11:17) generaledit 
+\i (00:11:17) drag_stop grid 10309.46 9870.31
+\i (00:11:18) move 
+\t (00:11:18) last pick:  9800.00 9800.00
+\t (00:11:18) Moving D2 / LED_DAX1DO7_LED / DAX1DO7.
+\t (00:11:18) Pick new location for the element(s).
+\i (00:11:19) pick grid 10049.25 9798.03
+\t (00:11:19) last pick:  10000.00 9800.00
+\i (00:11:19) generaledit 
+\i (00:11:31) zoom in 1 
+\i (00:11:31) setwindow pcb
+\i (00:11:31) zoom in 9875.79 9470.37
+\i (00:11:31) trapsize 1205
+\i (00:11:31) zoom in 1 
+\i (00:11:31) setwindow pcb
+\i (00:11:31) zoom in 9875.79 9470.37
+\i (00:11:31) trapsize 602
+\i (00:11:39) zoom out 1 
+\i (00:11:39) setwindow pcb
+\i (00:11:39) zoom out 9943.25 9552.29
+\i (00:11:39) trapsize 1205
+\i (00:11:39) zoom out 1 
+\i (00:11:39) setwindow pcb
+\i (00:11:39) zoom out 9943.25 9552.29
+\i (00:11:39) trapsize 2409
+\i (00:11:39) zoom out 1 
+\i (00:11:39) setwindow pcb
+\i (00:11:39) zoom out 9943.25 9552.29
+\i (00:11:39) trapsize 4819
+\i (00:11:41) zoom in 1 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) zoom in 10222.72 9802.86
+\i (00:11:41) trapsize 2409
+\i (00:16:10) save 
+\i (00:16:12) fillin yes 
+\i (00:16:12) generaledit 
+\i (00:16:30) pick grid 11485.18 9436.65
+\t (00:16:30) last pick:  11500.00 9400.00
+\i (00:16:31) add connect 
+\t (00:16:31) Pick first element.
+\i (00:16:37) setwindow form.mini
+\i (00:16:37) FORM mini acon_line_width 10 
+\i (00:16:39) setwindow pcb
+\i (00:16:39) pick grid 9793.87 9402.92
+\t (00:16:39) last pick:  9800.00 9400.00
+\t (00:16:39) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:16:39) last pick:  9800.00 9400.00
+\i (00:16:48) prepopup 9620.41 9648.67
+\i (00:16:49) oops 
+\t (00:16:49) last pick:  9800.00 9400.00
+\t (00:16:49) Pick first element.
+\i (00:17:00) setwindow form.mini
+\i (00:17:00) FORM mini acon_line_width 20 
+\i (00:17:07) setwindow pcb
+\i (00:17:07) pick grid 9784.24 9427.02
+\t (00:17:07) last pick:  9775.00 9425.00
+\t (00:17:07) last pick:  9800.00 9400.00
+\t (00:17:07) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:17:07) last pick:  9800.00 9400.00
+\i (00:17:10) pick grid 9793.87 9769.13
+\t (00:17:10) last pick:  9800.00 9775.00
+\t (00:17:10) No DRC errors detected.
+\i (00:17:10) mouse_pos 9938.43 9793.23
+\i (00:17:11) pick grid 10010.71 9812.50
+\t (00:17:11) last pick:  10000.00 9825.00
+\t (00:17:11) No DRC errors detected.
+\t (00:17:11) Pick first element.
+\i (00:17:15) prepopup 10174.54 9696.85
+\i (00:17:16) oops 
+\t (00:17:16) last pick:  9800.00 9775.00
+\i (00:17:18) prepopup 10352.82 9576.39
+\i (00:17:20) cancel 
+\i (00:17:20) generaledit 
+\i (00:17:24) add connect 
+\t (00:17:24) Pick first element.
+\i (00:17:27) setwindow form.mini
+\i (00:17:27) FORM mini lock_direction 45 
+\i (00:17:30) setwindow pcb
+\i (00:17:30) pick grid 9803.51 9412.56
+\t (00:17:30) last pick:  9800.00 9425.00
+\t (00:17:30) last pick:  9800.00 9400.00
+\t (00:17:30) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:17:30) last pick:  9800.00 9400.00
+\i (00:17:31) pick grid 9740.87 9653.49
+\t (00:17:31) last pick:  9750.00 9650.00
+\t (00:17:31) No DRC errors detected.
+\i (00:17:34) pick grid 9711.96 9788.41
+\t (00:17:34) last pick:  9700.00 9800.00
+\t (00:17:34) No DRC errors detected.
+\i (00:17:37) pick grid 9789.05 9889.60
+\t (00:17:37) last pick:  9800.00 9900.00
+\t (00:17:37) No DRC errors detected.
+\i (00:17:38) mouse_pos 9938.43 9793.23
+\i (00:17:39) pick grid 9991.43 9798.04
+\t (00:17:39) last pick:  10000.00 9800.00
+\t (00:17:39) No DRC errors detected.
+\t (00:17:39) Pick first element.
+\i (00:17:44) setwindow form.mini
+\i (00:17:44) FORM mini acon_line_width 20 
+\i (00:17:46) setwindow pcb
+\i (00:17:46) add connect 
+\t (00:17:46) Pick first element.
+\i (00:17:47) pick grid 10555.20 9802.86
+\t (00:17:47) last pick:  10550.00 9800.00
+\t (00:17:47) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:17:47) last pick:  10550.00 9800.00
+\i (00:17:49) pick grid 10743.13 9788.41
+\t (00:17:49) last pick:  10750.00 9800.00
+\t (00:17:49) No DRC errors detected.
+\i (00:17:52) pick grid 10767.22 9658.31
+\t (00:17:52) last pick:  10775.00 9650.00
+\t (00:17:52) No DRC errors detected.
+\t (00:17:52) last pick:  10750.00 9675.00
+\i (00:17:53) pick grid 10868.41 9557.12
+\t (00:17:53) last pick:  10875.00 9550.00
+\t (00:17:53) No DRC errors detected.
+\i (00:17:54) pick grid 10887.68 9311.37
+\t (00:17:54) last pick:  10900.00 9300.00
+\t (00:17:54) No DRC errors detected.
+\t (00:17:54) last pick:  10875.00 9325.00
+\i (00:17:56) pick grid 10791.31 8998.17
+\t (00:17:56) last pick:  10800.00 9000.00
+\t (00:17:56) No DRC errors detected.
+\i (00:17:57) pick grid 10661.21 8993.35
+\t (00:17:57) last pick:  10650.00 9000.00
+\t (00:17:57) No DRC errors detected.
+\i (00:17:58) mouse_pos 10656.39 9239.09
+\i (00:17:59) pick grid 10699.76 9292.10
+\t (00:17:59) last pick:  10700.00 9300.00
+\t (00:17:59) No DRC errors detected.
+\t (00:17:59) Pick first element.
+\i (00:23:53) new 
+\e (00:23:53) Do you want to save the changes you made to F:/Orcad/schematic/LED.brd?
+\i (00:23:54) fillin no 
+\i (00:23:56) newdrawfillin "menu_cancel"
+\i (00:23:56) generaledit 
+\i (00:23:57) exit 
+\e (00:23:57) Do you want to save the changes you made to F:/Orcad/schematic/LED.brd?
+\i (00:24:00) fillin no 
+\t (00:24:01)     Journal end - Tue Jan 02 13:47:45 2018

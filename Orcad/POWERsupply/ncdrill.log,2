@@ -1,0 +1,60 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : newPowerSupply.brd                            )
+(    Software Version : 17.2S024                                      )
+(    Date/Time        : Thu Jan 04 16:35:26 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-358): Design precision is the same as that of the drill output file data.
+ WARNING(SPMHMF-359): Data rounding errors may still be possible.
+
+
+ Drill files being output to directory 'F:/Orcad/POWERsupply' ...
+
+
+
+     'newPowerSupply-1-2.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  28.0000    0.0000/  0.0000      PLATED          2
+            2.  34.0000    0.0000/  0.0000      PLATED         10
+            3.  36.0000    0.0000/  0.0000      PLATED          4
+            4.  50.0000    0.0000/  0.0000      PLATED          3
+            5. 156.0000    0.0000/  0.0000  NON_PLATED          1
+
+     ---- Total holes:                                         20
+
+     ---- Total head travel:              1.07 feet (0.33 meters)
+

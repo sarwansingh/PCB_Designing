@@ -1,0 +1,204 @@
+
+**** 01/02/18 15:23:33 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bridgeSuply"  [ F:\Orcad\POWERsupply\bridgesupply-pspicefiles\schematic1\bridgesuply.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "bridgeSuply.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 1000ms 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source BRIDGESUPPLY
+R_R1         N01910 0  1k TC=0,0 
+D_D3         0 N01015 D1N4148 
+V_V1         N00825 N01015  AC 0
++SIN 0 12 5 0 0 0
+D_D2         N00825 N00913 D1N4148 
+D_D4         N01015 N00913 D1N4148 
+D_D1         0 N00825 D1N4148_1 
+C_C1         0 N00913  2200uf  TC=0,0 
+X_U1         N00913 N01875 0 LM7805C
+D_D5         N01875 N01910 MLED81
+
+**** RESUMING bridgeSuply.cir ****
+.END
+
+**** 01/02/18 15:23:33 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bridgeSuply"  [ F:\Orcad\POWERsupply\bridgesupply-pspicefiles\schematic1\bridgesuply.sim ] 
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               D1N4148         D1N4148_1       MLED81          X_U1.x1.Dlim    
+          IS    2.682000E-09    2.682000E-09   10.000000E-09   10.000000E-15 
+           N    1.836           1.836           1.1248                       
+         ISR    1.565000E-09    1.565000E-09   10.010000E-21                 
+         IKF     .04417          .04417        45.752000E-15                 
+          BV  100             100               5.4169                       
+         IBV  100.000000E-06  100.000000E-06   10                            
+          RS     .5664           .5664          1.2366                       
+          TT   11.540000E-09   11.540000E-09    5.000000E-09                 
+         CJO    4.000000E-12    4.000000E-12   25.000000E-12                 
+          VJ     .5              .5              .75             .7          
+           M     .3333           .3333           .3333                       
+
+
+               X_U1.x1.Dz      
+          IS   50.000000E-15 
+          BV    7.11         
+         IBV   50.000000E-09 
+          RS    3            
+
+
+**** 01/02/18 15:23:33 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bridgeSuply"  [ F:\Orcad\POWERsupply\bridgesupply-pspicefiles\schematic1\bridgesuply.sim ] 
+
+
+ ****     BJT MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_U1.x1.Npn1    
+               NPN             
+       LEVEL    1            
+          IS   10.000000E-15 
+          BF   50            
+          NF    1            
+          BR    1            
+          NR    1            
+         ISS    0            
+          RE    0            
+          RC    0            
+         CJE    0            
+         VJE     .75         
+         CJC    0            
+         VJC     .75         
+         MJC     .33         
+        XCJC    1            
+         CJS    0            
+         VJS     .75         
+          KF    0            
+          AF    1            
+          CN    2.42         
+           D     .87         
+
+
+**** 01/02/18 15:23:33 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bridgeSuply"  [ F:\Orcad\POWERsupply\bridgesupply-pspicefiles\schematic1\bridgesuply.sim ] 
+
+
+ ****     Voltage Controlled Switch MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_U1.x1.Sbg1    
+         RON    1            
+        ROFF    1.000000E+06 
+         VON    3.7          
+        VOFF    3            
+
+
+**** 01/02/18 15:23:33 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bridgeSuply"  [ F:\Orcad\POWERsupply\bridgesupply-pspicefiles\schematic1\bridgesuply.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00825)-24.24E-18 (N00913)-47.75E-18 (N01015)-24.24E-18 (N01875) 997.2E-21     
+
+(N01910) 359.5E-24 (X_U1.x1.4) 348.1E-12                 (X_U1.x1.5) 348.1E-12  
+
+(X_U1.x1.6) 1.017E-18                 (X_U1.x1.7) 997.3E-21                     
+
+(X_U1.x1.8) 997.2E-21                 (X_U1.x1.9) 997.2E-21                     
+
+(X_U1.x1.55) 1.138E-18                (X_U1.x1.56) 1.138E-18                    
+
+(X_U1.x1.100)    7.4000               (X_U1.x1.101) 7.399E-06                   
+
+(X_U1.x1.102)-47.75E-18               (X_U1.x1.105)     .0166                   
+
+(X_U1.x1.106) 348.1E-12               (X_U1.x1.107)    1.0000                   
+
+(X_U1.x1.108)   -1.0000               (X_U1.x1.200) 1665.0000               
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1         0.000E+00
+    X_U1.x1.Vbg  -7.400E-06
+    X_U1.x1.Vgainf  -1.665E+03
+    X_U1.x1.Vl1  -6.185E+02
+    X_U1.x1.Vl2  -6.185E+02
+
+    TOTAL POWER DISSIPATION   2.77E+06  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 01/02/18 15:23:33 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-bridgeSuply"  [ F:\Orcad\POWERsupply\bridgesupply-pspicefiles\schematic1\bridgesuply.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .05
+

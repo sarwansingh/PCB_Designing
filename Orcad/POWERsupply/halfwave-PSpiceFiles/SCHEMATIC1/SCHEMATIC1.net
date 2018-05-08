@@ -1,0 +1,5 @@
+* source HALFWAVE
+R_R1         N00142 0  1k TC=0,0 
+D_D1         N00135 N00142 D1N4148_1 
+V_V1         N00135 0  AC 0
++SIN 0 12 10 0 0 0

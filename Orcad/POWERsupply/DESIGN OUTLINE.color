@@ -1,0 +1,10 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "COMPONENT VALUE/DISPLAY_TOP"
+color -vis "DEVICE TYPE/DISPLAY_TOP"
+color -vis "PACKAGE GEOMETRY/SILKSCREEN_TOP"
+color -vis "REF DES/DISPLAY_TOP"
+color -vis "TOLERANCE/DISPLAY_TOP"
+color -vis "USER PART NUMBER/DISPLAY_TOP"

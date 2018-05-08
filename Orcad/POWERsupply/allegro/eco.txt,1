@@ -1,0 +1,98 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  F:/Orcad/POWERsupply/newPowerSupply.brd                                     |
+|                                                    Wed Jan 03 16:33:56 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins ADDED TO this new net
+                                 C1.1           D1.1           D3.1           
+                                 R1.2           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00825       pins ADDED TO this new net
+                                 D1.2           D2.1           J1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00913       pins ADDED TO this new net
+                                 C1.2           D2.2           D4.2           
+                                 U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01015       pins ADDED TO this new net
+                                 D3.2           D4.1           J2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01875       pins ADDED TO this new net
+                                 D5.1           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01910       pins ADDED TO this new net
+                                 D5.2           R1.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  F:/Orcad/POWERsupply/newPowerSupply.brd                                     |
+|                                                    Wed Jan 03 16:33:56 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1N4148_DAX2DO35_D1N4148
+ CON1_JUMPER1_CON1
+ C_CAP196_2200UF
+ D1N4148_DAX2DO35_D1N4148
+ LM7805C_TO202AB_LM7805C
+ MLED81_DAX1DO35_MLED81
+ R_AXRC05_1K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  F:/Orcad/POWERsupply/newPowerSupply.brd                                     |
+|                                                    Wed Jan 03 16:33:56 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_CAP196_2200UF       
+ D1                  1N4148_DAX2DO35_D1N4148 
+ D2                  D1N4148_DAX2DO35_D1N4148 
+ D3                  D1N4148_DAX2DO35_D1N4148 
+ D4                  D1N4148_DAX2DO35_D1N4148 
+ D5                  MLED81_DAX1DO35_MLED81 
+ J1                  CON1_JUMPER1_CON1     
+ J2                  CON1_JUMPER1_CON1     
+ R1                  R_AXRC05_1K           
+ U1                  LM7805C_TO202AB_LM7805C 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  F:/Orcad/POWERsupply/newPowerSupply.brd                                     |
+|                                                    Wed Jan 03 16:33:56 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D2.2                           PRIM_FILE      .\pstchip.dat
+ D3.2                           PRIM_FILE      .\pstchip.dat
+ D4.2                           PRIM_FILE      .\pstchip.dat
+ D5.2                           PRIM_FILE      .\pstchip.dat
+ J1.1                           PRIM_FILE      .\pstchip.dat
+ J2.1                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ U1.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      19                                        |
+|       Comp definitions added:       7                                        |
+|       Components added      :      10                                        |
+|       Slot property added   :      10                                        |
+|                                                                              |
+|   Total ECO changes reported:      46                                        |
+|------------------------------------------------------------------------------|

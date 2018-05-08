@@ -1,0 +1,19 @@
+  Revised: Tuesday, January 02, 2018
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials        January 2,2018      15:44:49	Page1
+
+Item	Quantity	Reference	Part	 PCB footprint
+______________________________________________
+
+1	1	C1	2200uf	cap196
+2	4	D1,D2,D3,D4	D1N4148	dax2do35
+3	1	D5	MLED81	dax1do35
+4	1	R1	1k	AXRC05
+5	1	U1	LM7805C	to202ab

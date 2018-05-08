@@ -1,0 +1,34 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Wed Jan 03 15:47:44 2018
+# 
+# Allegro PCB Router v17-2-50 made 2017/01/16 at 14:16:53
+# Running on: kapany-201, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name F:/Orcad/POWERsupply\bridgePS.dsn
+# Batch File Name: pasde.do
+# Did File Name: F:/Orcad/POWERsupply/specctra.did
+# Current time = Wed Jan 03 15:47:44 2018
+# PCB F:/Orcad/POWERsupply
+# Master Unit set up as: MIL 1000
+# PCB Limits xlo=12367.3000 ylo=9987.0500 xhi=14186.7000 yhi=11371.9500
+# Total 5 Images Consolidated.
+# Via VIA z=1, 2 xlo=-12.0000 ylo=-12.0000 xhi= 12.0000 yhi= 12.0000
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# Wires Processed 17, Vias Processed 0
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 10, Images Processed 15, Padstacks Processed 7
+# Nets Processed 6, Net Terminals 19
+# PCB Area=2082386.000  EIC=1  Area/EIC=2082386.000  SMDs=0

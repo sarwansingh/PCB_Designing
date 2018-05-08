@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : newPowerSupply.brd                            )
+(    Software Version : 17.2S024                                      )
+(    Date/Time        : Thu Jan 04 17:10:28 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.10
+Max Text displacement is 100.00
+Min Line Length is 1.27
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : None
+ Device Type          : None
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : None
+ User Part Number     : None
+
+Text string 'D5' is not at a suitable location
+(location: 5400.00, 12675.00)
+Text string 'D3' is not at a suitable location
+(location: 4025.00, 12350.00)
+Text string 'D2' is not at a suitable location
+(location: 3725.00, 12325.00)
+
+Total Failures: 3
+
+Log End
+

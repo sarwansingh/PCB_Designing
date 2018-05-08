@@ -1,0 +1,34 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : newPowerSupply.brd                            )
+(    Software Version : 17.2S024                                      )
+(    Date/Time        : Thu Jan 04 17:12:31 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.10
+Max Text displacement is 100.00
+Min Line Length is 1.27
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : None
+ Tolerance            : None
+ User Part Number     : Silkscreen
+
+
+Total Failures: 0
+
+Log End
+

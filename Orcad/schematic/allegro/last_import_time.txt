@@ -1,0 +1,4 @@
+2018-01-02T13:23:43 ===> "F:/ORCAD/SCHEMATIC/allegro/pstchip.dat"
+2018-01-02T13:23:43 ===> "F:/ORCAD/SCHEMATIC/allegro/pstxnet.dat"
+2018-01-02T13:23:43 ===> "F:/ORCAD/SCHEMATIC/allegro/pstxprt.dat"
+2018-01-02T13:23:43 ===> "F:/ORCAD/SCHEMATIC/allegro/pstdmlmodels.dat"
